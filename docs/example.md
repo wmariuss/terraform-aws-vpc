@@ -4,7 +4,7 @@
 # Create a file named main.tf and add:
 
 module "vpc" {
-  source = "<URL+VERSION>"
+  source = "git::https://github.com/wmariuss/terraform-aws-vpc.git?ref=v1.0.0"
 
   name = "project_name"
 

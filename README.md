@@ -8,7 +8,7 @@ Example and all available parameters, check [docs](docs/) dir.
 
 ## Tests
 
-This is alredy used in production.
+This is already used in production.
 
 ## Authors
 
